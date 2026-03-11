@@ -1,0 +1,8 @@
+{
+  "name": "multi-sig-vault-wallet",
+  "version": "1.0.0",
+  "description": "A secure multi-signature wallet for shared asset management",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
